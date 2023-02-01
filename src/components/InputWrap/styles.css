@@ -1,0 +1,21 @@
+.wrapper-inp {
+  max-width: 1300px;
+  display: flex;
+  margin: 0 auto;
+  flex-direction: column;
+  height: 700px;
+  padding: 20px 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper-title {
+  margin-bottom: 30px;
+  font-size: 35px;
+}
+
+.container-block {
+  display: flex;
+  width: 203px;
+  justify-content: space-between;
+}
